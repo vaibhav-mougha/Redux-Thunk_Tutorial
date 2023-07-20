@@ -1,33 +1,33 @@
 import {
-  GET_POST_ERROR,
-  GET_POST_LOADING,
-  GET_POST_SUCCESS,
-} from "./Post.actionType";
+  GET_Feeds_ERROR,
+  GET_Feeds_LOADING,
+  GET_Feeds_SUCCESS,
+} from "./Feeds.actionType";
 
 const initialState = {
   loading: false,
   error: "",
-  posts: [],
+  Feeds: [],
 };
 
-export const PostReducer = (state = initialState, { type, payload }) => {
+export const FeedsReducer = (state = initialState, { type, payload }) => {
   switch (type) {
-    case GET_POST_LOADING: {
+    case GET_Feeds_LOADING: {
       return {
         ...state,
         loading: true,
         error: "",
       };
     }
-    case GET_POST_SUCCESS: {
+    case GET_Feeds_SUCCESS: {
       return {
         ...state,
-        posts: payload,
+        Feeds: payload,
         loading: false,
         error: "",
       };
     }
-    case GET_POST_ERROR: {
+    case GET_Feeds_ERROR: {
       return {
         ...state,
         loading: false,
