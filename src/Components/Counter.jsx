@@ -17,7 +17,7 @@ const Counter = () => {
         width: "70%",
         margin: "auto",
         borderRadius: "2rem",
-        padding:"2rem"
+        padding: "2rem",
       }}
     >
       <h1>Counter : {count}</h1>
@@ -43,15 +43,22 @@ const Counter = () => {
         </div>
       </div>
 
-      <div ><button style={{
-        background:"#7925C7",
-        color:"#FFFFFF",
-        padding:"1.2rem",
-        borderRadius:"2rem",
-        borderColor:"#7925C7",
-        fontWeight:"bold",
-        fontSize:"1.2rem"
-      }} onClick={() => dispatch({ type: COUNTER_RESET })}>Reset COUNTER</button></div>
+      <div>
+        <button
+          style={{
+            background: "#7925C7",
+            color: "#FFFFFF",
+            padding: "1.2rem",
+            borderRadius: "2rem",
+            borderColor: "#7925C7",
+            fontWeight: "bold",
+            fontSize: "1.2rem",
+          }}
+          onClick={() => dispatch({ type: COUNTER_RESET })}
+        >
+          Reset COUNTER
+        </button>
+      </div>
     </div>
   );
 };

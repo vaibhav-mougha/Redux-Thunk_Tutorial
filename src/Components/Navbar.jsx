@@ -3,7 +3,7 @@ import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
 import { TOGGLE_THEME } from "../Redux/Theme/theme.actionTypes";
 
-const Navbar = ({theme}) => {
+const Navbar = ({ theme }) => {
   const dispatch = useDispatch();
 
   return (
