@@ -6,24 +6,25 @@ const TodoItem = ({ id, value, isCompleted }) => {
   const dispatch = useDispatch();
 
   return (
-    <div style={{
-      display:"flex",
-      justifyContent:"center",
-      alignItems:"center"
-    }}>
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+    >
       <h1
         onClick={() =>
           dispatch(
             updateTodo(id, {
-              isCompleted:!isCompleted,
+              isCompleted: !isCompleted,
             })
           )
         }
       >
-      
-         {value} : {isCompleted ? "Completed" : "In Complete"}
+        {value} : {isCompleted ? "Completed" : "In Complete"}
       </h1>
-      <button onClick={()=>dispatch(deleteTodo(id))}>DELETE</button>
+      <button onClick={() => dispatch(deleteTodo(id))}>DELETE</button>
     </div>
   );
 };
