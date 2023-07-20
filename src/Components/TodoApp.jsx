@@ -8,18 +8,20 @@ const TodoApp = () => {
   const todos = useSelector((store) => store.todos.todos);
   const dispatch = useDispatch();
 
-  useEffect(()=>{
-    dispatch(getTodos())
-  },[dispatch])
+  useEffect(() => {
+    dispatch(getTodos());
+  }, [dispatch]);
 
   // console.log(todos);
   return (
-    <div style={{
-      border:"4px solid #7925C7",
-      width:"70%",
-      margin:"auto",
-      borderRadius:"2rem"
-    }} >
+    <div
+      style={{
+        border: "4px solid #7925C7",
+        width: "70%",
+        margin: "auto",
+        borderRadius: "2rem",
+      }}
+    >
       <h1>Todo App</h1>
 
       <TodoInput />
