@@ -15,13 +15,9 @@ export const getTodos = () => ({
   ],
 });
 
-export const addTodo = (value) => ({
+export const addTodo = (todo) => ({
   type: TODOS_ADD,
-  payload: {
-    id: Date.now(),
-    value,
-    isCompleted: false,
-  },
+  payload: todo,
 });
 
 export const updateTodo = (id, changes) => ({
