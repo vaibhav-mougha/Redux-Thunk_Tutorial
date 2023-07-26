@@ -45,59 +45,59 @@
 
 ## Let's Dive into What we have made
 
-## Todo Static App :
+## 🚀 Todo Static App :
 
 <h3>Harness the power of Redux for efficient state management. Seamlessly add, edit, and delete tasks in a well-organized to-do list. Experience enhanced task management and state control with ease.</h3>
 <br/>
 
 
 <div align="center">
-  <img width="60%" alt="Home page" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/537b4cd2-a04a-4b74-b736-38e93341a171.jpg"/>
+  <img width="70%" alt="Home page" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/537b4cd2-a04a-4b74-b736-38e93341a171.jpg"/>
 </div>
 <br/>
 
 
-## Counter App :
+## 🚀 Counter App :
 
 <h3>Experience interactive counting with Redux. Increment, decrement, and reset the counter effortlessly. Utilize Redux's powerful state management for smooth user interactions.</h3>
 <br/>
 
 <div align="center">
-<img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/280bdea9-2f21-406f-8093-57fc8dbea40e.jpg" alt ="signup page" />
+<img width="70%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/280bdea9-2f21-406f-8093-57fc8dbea40e.jpg" alt ="signup page" />
 </div>
 
 <br/>
 
 
 
-## Redux Thunk :
+## 🚀 Redux Thunk :
 
 <h3>Explore login features with Reqres API integration for user authentication. Manage tasks efficiently with the Todo operations using Redux. Utilize Redux DevTools for seamless debugging of async operations. Master state management and enhance productivity in this comprehensive guide.</h3>
 <br/>
 
 <div align="center">
-<img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/59c1e5f8-d8f3-47f4-9645-50c72e1e2e0f.jpg" alt ="signup page" />
+<img width="70%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/59c1e5f8-d8f3-47f4-9645-50c72e1e2e0f.jpg" alt ="signup page" />
 </div>
 
 <br/>
 
 
-## Packages Used :
+## 🚀 Packages Used :
 <br/>
 <div align="center">
-<img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/31ed42ae-58a9-4c15-b6f4-5ce5ba804109.jpg" alt ="signup page" />
+<img width="70%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/31ed42ae-58a9-4c15-b6f4-5ce5ba804109.jpg" alt ="signup page" />
 </div>
 <br/>
 
 
 
-## Toggle Theme :
+## 🚀 Toggle Theme :
 
 <h3>Centralized theme state enables smooth switching between dark and light themes. Redux actions manage theme updates, ensuring a visually appealing user experience. Simple implementation, easy maintenance, and scalability make Redux the ideal choice for the toggle theme functionality. .</h3>
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/e9d63904-c5e6-449b-a94e-5b1722098570.jpg" alt="Hotels page">
+  <img width="70%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/e9d63904-c5e6-449b-a94e-5b1722098570.jpg" alt="Hotels page">
 </div>
 
 <br/>
