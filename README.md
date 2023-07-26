@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+# Welcome to Redux-Thunk_Tutorial
+<h3>Learn Redux with Todo Static App and Counter App. Utilize Redux DevTools to enhance development capabilities. Discover Redux Thunk with JSON Server, enabling seamless asynchronous actions. Explore key packages used and toggle between dark and light themes. Master Redux and build powerful, responsive websites.</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br/>
 
-## Available Scripts
+# Deployed URL 👉 [Click here](https://redux-thunk-tutorial.vercel.app/)
 
-In the project directory, you can run:
+ 
+## Developer : 
+- Vaibhav Mougha ( My Linkedin profile:- https://www.linkedin.com/in/vaibhavmougha/ )
 
-### `npm start`
+<br/>
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h1 align="center">🖥️ Tech Stack</h1>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3 align="center">Frontend:</h3> 
 
-### `npm test`
+ <div align="center">
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+ <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  align="center" alt="javascript" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center"><h3 align="center">Tools:</h3> 
+  <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+</div>
 
-### `npm run build`
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h3 align="center">Deployed On:</h3>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center"> 
+<a href="https://web-course-backend.vercel.app/">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+  </a>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br/>
 
-### `npm run eject`
+## Let's Dive into What we have made
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Todo Static App :
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h3>Harness the power of Redux for efficient state management. Seamlessly add, edit, and delete tasks in a well-organized to-do list. Experience enhanced task management and state control with ease.</h3>
+<br/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<div align="center">
+  <img width="60%" alt="Home page" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/537b4cd2-a04a-4b74-b736-38e93341a171.jpg"/>
+</div>
+<br/>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Counter App :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h3>Experience interactive counting with Redux. Increment, decrement, and reset the counter effortlessly. Utilize Redux's powerful state management for smooth user interactions.</h3>
+<br/>
 
-### Code Splitting
+<div align="center">
+<img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/280bdea9-2f21-406f-8093-57fc8dbea40e.jpg" alt ="signup page" />
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br/>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Redux Thunk :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<h3>Explore login features with Reqres API integration for user authentication. Manage tasks efficiently with the Todo operations using Redux. Utilize Redux DevTools for seamless debugging of async operations. Master state management and enhance productivity in this comprehensive guide.</h3>
+<br/>
 
-### Advanced Configuration
+<div align="center">
+<img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/59c1e5f8-d8f3-47f4-9645-50c72e1e2e0f.jpg" alt ="signup page" />
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br/>
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Packages Used :
+<br/>
+<div align="center">
+<img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/31ed42ae-58a9-4c15-b6f4-5ce5ba804109.jpg" alt ="signup page" />
+</div>
+<br/>
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Toggle Theme :
+
+<h3>Centralized theme state enables smooth switching between dark and light themes. Redux actions manage theme updates, ensuring a visually appealing user experience. Simple implementation, easy maintenance, and scalability make Redux the ideal choice for the toggle theme functionality. .</h3>
+<br/>
+
+<div align="center">
+  <img width="60%" src="https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial/assets/107460451/e9d63904-c5e6-449b-a94e-5b1722098570.jpg" alt="Hotels page">
+</div>
+
+<br/>
+
+
+Source Code(GitHub link):- https://github.com/vaibhav-mougha/Redux-Thunk_Tutorial
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+### Thank you
